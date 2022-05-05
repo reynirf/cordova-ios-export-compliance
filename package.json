@@ -12,7 +12,7 @@
   ],
   "engines": {
     "cordovaDependencies": {
-      "1.0.0": { "cordova-ios": "<6.1.0"}
+      "1.0.0": { "cordova-ios": ">6.1.0"}
     }
   },
   "author": "Eric McNiece",
