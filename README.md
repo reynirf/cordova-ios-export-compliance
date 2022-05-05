@@ -4,7 +4,7 @@ This plugin set ITSAppUsesNonExemptEncryption in *-Info.plist file
 
 ## Installation
 
-`$ cordova plugin add https://github.com/emcniece/cordova-ios-export-compliance.git`
+`$ cordova plugin add https://github.com/reynirf/cordova-ios-export-compliance.git`
 
 or:
 
