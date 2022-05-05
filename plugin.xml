@@ -3,7 +3,7 @@
     <name>iOS Export Compliance</name>
     <description>This plugin sets ITSAppUsesNonExemptEncryption in *-Info.plist file</description>
     <license>ISC</license>
-    <engine name="ios" spec="^4.0.0" />
+    <engine name="ios"/>
 
     <platform name="ios">
         <config-file target="*-Info.plist" parent="ITSAppUsesNonExemptEncryption">
